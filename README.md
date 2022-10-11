@@ -5,6 +5,7 @@ The oficial pytorch implementation of the paper [Combining banb-frequency separa
 We proposed an deep FD-UNet architecture that directly exploits the frequency content in the broadband sinogram of an optoacustic measured signal for image reconstruction. The reconstructed images present a high degree of fidelity.
 
 ![plot](./FigureResults.png)
+Figure: Reconstruction example. In the second half it is shown the average power spectrum of the full sinogram and the components associated with x1 and x2.
 
 ### Citation
 If our implementation helps your research work, please consider citing us:
