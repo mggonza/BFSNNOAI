@@ -14,7 +14,7 @@ If our implementation helps your research work, please consider citing us:
 @article{gonzalez2022,
   title={Combining banb-frequency separation and deep neural network for optoacoustic imaging},
   author={M. Gonzalez, M. Vera, L. Rey Vega},
-  journal={arXiv preprint arXiv:NUMERO},
+  journal={arXiv preprint arXiv:submit/4545985},
   year={2022}
 }
 ```
