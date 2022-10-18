@@ -1,6 +1,6 @@
 # Optoacoustic Imaging: Combining Band-Frequency Separation and FD-UNet
 
-The oficial pytorch implementation of the paper [Combining banb-frequency separation and deep neural network for optoacoustic imaging](enlace)
+The oficial pytorch implementation of the paper [Combining banb-frequency separation and deep neural network for optoacoustic imaging](http://arxiv.org/abs/2210.08099)
 
 We proposed an deep FD-UNet architecture that directly exploits the frequency content in the broadband sinogram of an optoacustic measured signal for image reconstruction. The reconstructed images present a high degree of fidelity.
 
@@ -14,7 +14,7 @@ If our implementation helps your research work, please consider citing us:
 @article{gonzalez2022,
   title={Combining banb-frequency separation and deep neural network for optoacoustic imaging},
   author={M. Gonzalez, M. Vera, L. Rey Vega},
-  journal={arXiv preprint arXiv:submit/4545985},
+  journal={arXiv preprint arXiv:2210.08099},
   year={2022}
 }
 ```
